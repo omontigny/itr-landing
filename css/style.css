@@ -1,0 +1,22 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+
+/* Importing global setup */
+@import url("setup.css");
+
+/* Importing all components file */
+@import url("components/cards.css");
+@import url("components/buttons.css");
+
+/* Custom design below! */
+@import url("banner.css");
+@import url("cards-container.css");
+@import url("footer.css");
+
+
+
+

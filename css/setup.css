@@ -1,0 +1,34 @@
+
+
+/* General margin to avoid browser margins */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: Open Sans;
+  background-color: #031F30;
+}
+
+
+h1, h2, h3, h4 {
+  font-family: Poppins;
+  color: #337ab7;
+}
+
+a {
+  text-decoration: none;
+}
+
+.text-center {
+  text-align: center;
+  margin-top: 20px;
+}
+
+

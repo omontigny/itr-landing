@@ -1,0 +1,37 @@
+/* CARDS-CONTAINER */
+.cards{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #031F30;
+
+}
+
+.card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 240px;
+  height: 28vh;
+  margin: 40px 0px;
+  border: solid 1px #9cd4f7;
+  border-radius: 10px;
+  background-color: #101C24;
+  color: white;
+  /*box-shadow: 1px 3px 4px rgba(211,212,212,0.5); /* decal honz; decal vert, flou, coleur :  ombre de lumière ambiante*/
+}
+
+.card img{
+  width: 130px;
+  height: 110px;
+  margin: 30px;
+  }
+
+.card p{
+  color: #67CBF1;
+  text-align: center;
+  opacity: 0.8;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 5px;
+}
