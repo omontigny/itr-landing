@@ -1,66 +1,37 @@
 /* BANNER */
 .banner{
-
-
+  width: 100vw;
   height: 100vh;
-  font-size: 16px;
  /* background-image: linear-gradient(135deg, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.2) 50%), url('https://source.unsplash.com/3wTmlAZ2Nxw/1440x768');*/
   /*background-image: linear-gradient(135deg, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.2) 50%), url('https://source.unsplash.com/_kdTyfnUFAc/1440x768');*/
-  background-image: linear-gradient(135deg, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.2) 50%), url('https://source.unsplash.com/OgvqXGL7XO4/1440x768');
-
-
-  /*background-color: #337ab7;*/
+  background-image: linear-gradient(135deg, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.2) 50%), url('https://source.unsplash.com/OgvqXGL7XO4/1440x768');
   background-size: cover;
   background-position: center;
-  padding: 30px 0px;
-
 }
 
-.banner-container {
-  width: 100vw;
-  text-align: left;
-  /*border: solid 1px red;*/
-
-}
-.container {
-/*  display : flex;
-  justify-content: flex-start;
-  flex-direction: column;*/
-/*  align-items: center;
-*/
-  width: 900px;
-  align: center;
-  margin: auto;
-  background-color: #031F30;
-
+.banner-brand {
+    text-align: left;
+    margin-left: 10vw;
+    //border: solid 1px red;
 }
 
-
-.container   h2{
-  margin-top: 50px;
+.banner-title {
+    margin-top: 20vh;
+    margin-left: 20vw;
+    //border: solid 1px blue;
 }
 
-.banner h1{
-  font-size: 48px;
-
-  color: white;
-  position: relative;
-  font-weight: bold;
-  top: 250px;
-  bottom: 0px;
-  left: 250px;
-  right: 0px;
-  /*margin: 150px 0;*/
-
-
+.banner-title h1 {
+    width: 100vw;
+    text-align: left;
+    font-size: 2.8em;
+    color: white;
+    font-weight: bold;
+    /*margin: 150px 0;*/
 }
 
-.banner p {
-  position: relative;
-  color: white;
-  font-size: 32px;
-  top: 250px;
-  bottom: 0px;
-  left: 250px;
-  right: 0px;
-}
+.banner-title p {
+    color: white;
+    font-size: 2em;
+  }
+

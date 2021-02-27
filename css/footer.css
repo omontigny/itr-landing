@@ -12,9 +12,13 @@
   font-size: 30px;
   color: #9cd4f7;
   padding-bottom: 30px;
-
 }
 
+.socials a:hover{
+  font-size: 30px;
+  color: #565656;
+  padding-bottom: 30px;
+}
 .footer p {
   margin-top: 20px;
   color: #67CBF1;
