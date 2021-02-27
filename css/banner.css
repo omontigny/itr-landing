@@ -1,12 +1,13 @@
 /* BANNER */
 .banner{
-  width: 100vw;
-  height: 100vh;
- /* background-image: linear-gradient(135deg, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.2) 50%), url('https://source.unsplash.com/3wTmlAZ2Nxw/1440x768');*/
-  /*background-image: linear-gradient(135deg, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.2) 50%), url('https://source.unsplash.com/_kdTyfnUFAc/1440x768');*/
-  background-image: linear-gradient(135deg, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.2) 50%), url('https://source.unsplash.com/OgvqXGL7XO4/1440x768');
-  background-size: cover;
-  background-position: center;
+    width: 100vw;
+    height: 100vh;
+    /* background-image: linear-gradient(135deg, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.2) 50%), url('https://source.unsplash.com/3wTmlAZ2Nxw/1440x768');*/
+    /* background-image: linear-gradient(135deg, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.2) 50%), url('https://source.unsplash.com/_kdTyfnUFAc/1440x768');*/
+    background-image: linear-gradient(135deg, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.2) 50%), url('https://source.unsplash.com/OgvqXGL7XO4/1440x768');
+    background-size: cover;
+    background-position: center;
+    //border: solid 1px blue;
 }
 
 .banner-brand {
@@ -22,7 +23,7 @@
 }
 
 .banner-title h1 {
-    width: 100vw;
+    width: 100%;
     text-align: left;
     font-size: 2.8em;
     color: white;

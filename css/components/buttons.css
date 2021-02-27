@@ -1,6 +1,5 @@
 /* BUTTONS */
 
-
 .btn-green{
   display: inline-block;
   color: white;
@@ -8,27 +7,3 @@
   border-radius: 25px;
   padding: 15px 35px;
 }
-/*
-//$clear-blue: #9cd4f7;
-//$light-blue: #337ab7;
-
-//$docker-background-light: #D3D4D4; // rgb(211,212,212)
-//$docker-background-dark: #0F1C25; //links hover rgb(15,28,37)
-
-//$docker-background-clear-blue: #9cd4f7; // rgb(156,212,247)
-//$docker-background-light-blue: #337ab7; // rgb(51,122,183)
-//$docker-background-light-blue2: #2089C4; //links rgb(32,137,196)
-
-//$docker-background-blue: #031F30; //(rgb(3, 31, 48))
-//$docker-background-dark-blue: #101C24; //rgb(16, 28, 36)
-
-//$docker-background-link: #0a151a; //links hover rgb(10,21,26)
-
-$docker-font-color-light: $docker-background-light;
-$docker-font-color-clear-blue: $docker-background-clear-blue;
-$docker-font-color-light-blue: $docker-background-light-blue;
-$docker-font-color-light-blue2: $docker-background-light-blue2;
-$docker-font-color-dark-blue: $docker-background-dark-blue;
-
-
-*/

@@ -2,25 +2,26 @@
 .footer{
   text-align: center;
   height: 20vh;
-  padding-top: 50px;
+  padding-top: 60px;
   color: #565656;
   background-color: #101C24;
+  //border: solid 1px blue;
 }
 
 
 .socials a{
   font-size: 30px;
   color: #9cd4f7;
-  padding-bottom: 30px;
+  maring-bottom: 10px;
 }
 
 .socials a:hover{
   font-size: 30px;
   color: #565656;
-  padding-bottom: 30px;
+  maring-bottom: 10px;
 }
-.footer p {
-  margin-top: 20px;
+.socials p {
+  margin-top: 10px;
   color: #67CBF1;
   text-align: center;
 }
